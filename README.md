@@ -2,8 +2,6 @@
 
 # Hello, I'm Vedant ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<hr>
-
 # 🚀 About me
 👋 Hey there! I'm Vedant Santosh Pawar, and I'm a big fan of exploring the latest trends in technology and gaming! I'm particularly fascinated by the dynamic worlds of data science and artificial intelligence. It's like having the keys to unlock endless possibilities and create innovative solutions!
 
@@ -46,6 +44,8 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+<hr>
+
 ### Frameworks
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -56,8 +56,12 @@
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 - ![Seaborn](https://img.shields.io/badge/Seaborn-4EAE4E?style=for-the-badge&logo=seaborn&logoColor=white)
 
+<hr>
+
 ### Cloud Computing
 - ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+<hr>
 
 ### Version Control
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,6 +77,23 @@
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Design and GameDev
-- ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+- ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+<hr>
+
+<div align="center">
+  <a href="https://github.com/VedantPawar19" target="_blank" rel="noopener noreferrer" style="padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VedantPawar19&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Vedant Pawar's GitHub Stats" style="width: auto; height: 200px;">
+  </a>
+
+  <a href="https://github.com/VedantPawar19?tab=repositories" target="_blank" rel="noopener noreferrer" style="padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPawar19&layout=compact&theme=dark&hide_border=true" alt="Top Languages Used" style="width: auto; height: 200px;">
+  </a>
+</div>
+
+## Let's Connect 🤝 <br>
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/VedantPawar1910/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/VedantPawar19)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vedantspawar1910@gmail.com)
