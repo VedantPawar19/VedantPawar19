@@ -1,32 +1,9 @@
 <p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/header.png" width="1380px" height="180px"></p>
 
-# Hello, I'm Vedant ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hello, I'm Vedant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 # 🚀 About me
-👋 Hey there! I'm Vedant Santosh Pawar, and I'm a big fan of exploring the latest trends in technology and gaming! I'm particularly fascinated by the dynamic worlds of data science and artificial intelligence. It's like having the keys to unlock endless possibilities and create innovative solutions!
-
-💼 **Proficient in Java**: Bringing strong problem-solving abilities and proficiency in Java.
-
-🐍 **Python Enthusiast**: Demonstrated passion for Python and data science, with expertise in machine learning and deep learning.
-
-📊 **Data Science and Machine Learning Maven**: Skilled in data analysis, processing, and feature engineering for insightful decision-making. ALso skilled in Machine learning and Deep Learning concepts.
-
-🌐 **Web Development Aficionado**: Advancing skills in web development with React.js and Spring Boot, integrating backend and frontend technologies seamlessly.
-
-🚀 **Startup Founder**: Entrepreneurial mindset as a co-founder of RapidStudyHub, an educational website aiding students in last-minute exam preparation.
-
-📚 **Continuous Learner**: Always eager to learn, achieving a typing speed of 65+ WPM, studying Japanese, and reading personality development books.
-
-🎨 **Hobbies**: Apart from coding, enjoys exploring Japanese language and culture, reading personality development books, and engaging in continuous learning.
-
-<hr>
-
-## 🏅 Achievements
-
-- 🤝 **Problem Solver**: Successfully solved over 200 questions on LeetCode, GFG, and CodeChef, demonstrating strong problem-solving skills.
-- 🎓 **SKNCOE Coding Hub Core Member**: Drove growth and fostered a vibrant coding community as the Core Member.
-- 🏆 **GAIT GOLD Professional**: Achieved the esteemed GAIT GOLD Professional certification, organized by JTP.
-- 💼 **Microsoft Certified**: Azure Fundamentals Exam Passed with 842/1000 marks.
+👋 Hey there! I'm Vedant Pawar, and I'm a big fan of exploring the latest trends in technology and gaming! I'm particularly fascinated by the dynamic worlds of data science and artificial intelligence. It's like having the keys to unlock endless possibilities and create innovative solutions!
 
 <hr>
 
@@ -47,7 +24,6 @@
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 <hr>
@@ -64,7 +40,6 @@
 
 <hr>
 
-
 ### Version Control
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -77,10 +52,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Design and GameDev
+### Design
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-- ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 <hr>
 
